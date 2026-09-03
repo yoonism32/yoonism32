@@ -1,4 +1,4 @@
-# Hi, I'm Yoonis 
+# Hi, I'm Yoonis
 
 ---
 
@@ -7,14 +7,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yoonism32/yoonism32/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/yoonism32/yoonism32/main/assets/custom-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yoonism32/yoonism32/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/yoonism32/yoonism32/main/assets/custom-snake-light.svg"
   />
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/yoonism32/yoonism32/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/yoonism32/yoonism32/main/assets/custom-snake-light.svg"
   />
 </picture>
