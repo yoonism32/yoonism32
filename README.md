@@ -1,8 +1,8 @@
-# Hi, I'm Yoonis 👋
+# Hi, I'm Yoonis 
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source
